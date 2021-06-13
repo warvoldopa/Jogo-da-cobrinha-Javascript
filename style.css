@@ -1,0 +1,18 @@
+body{
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:white;
+    color: rgb(20, 0, 199);
+    padding-top: 30px;
+    background-color: rgb(112, 112, 112);
+}
+p > em {
+    font-size: 20px;
+    color:rgb(20, 0, 199); 
+    font-weight: bolder;
+    padding-top: 5px;
+}
